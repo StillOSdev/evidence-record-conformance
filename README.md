@@ -1400,3 +1400,13 @@ therefore read as closed.
 Apache-2.0. Maintained by [Tersign](https://tersign.ai), which decides what merges and what the
 suite pins; see [CONTRIBUTING.md](CONTRIBUTING.md). Cross-runs, counter-vectors and adversarial
 additions welcome.
+
+## Check your own server's trust grade
+
+Still OS publishes a live, recomputable trust grade for every MCP
+server and agent endpoint it observes.
+
+Look up yours: https://stillosdigitalholdings.com/ratings/n/YOUR-HOST
+
+Free, no account. The page also lets you get notified by email when
+that server's tool surface changes.
